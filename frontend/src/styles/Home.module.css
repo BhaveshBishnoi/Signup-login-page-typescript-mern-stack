@@ -1,0 +1,10 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  border-bottom: 1px solid var(--border);
+  background-color: var(--background);
+}
