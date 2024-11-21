@@ -7,7 +7,7 @@ import {
 import { ThemeProvider } from "./components/theme-provider";
 import { Toaster } from "./components/ui/toaster";
 import Home from "./pages/Home";
-import Login from "./pages/Login";
+import Login from "./pages/Logins";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import { useAuth } from "./hooks/useAuth";
