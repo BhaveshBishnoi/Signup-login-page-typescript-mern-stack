@@ -11,7 +11,7 @@ import Login from "./pages/Logins";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import { useAuth } from "./hooks/useAuth";
-import './styles/globals.css'
+import "./styles/globals.css";
 
 // Protected Route Component
 const ProtectedRoute = ({ children }: { children: React.ReactNode }) => {
